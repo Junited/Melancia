@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BF15C39A208C013100F19030 /* Meloncia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Meloncia.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF15C39A208C013100F19030 /* Melancia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Melancia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF15C39D208C013100F19030 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BF15C39F208C013100F19030 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BF15C3A2208C013100F19030 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BF15C3A4208C013400F19030 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF15C3A7208C013400F19030 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BF15C3A9208C013400F19030 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BF15C3AE208C013400F19030 /* MelonciaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MelonciaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF15C3AE208C013400F19030 /* MelanciaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MelanciaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF15C3B2208C013400F19030 /* MelonciaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MelonciaTests.swift; sourceTree = "<group>"; };
 		BF15C3B4208C013400F19030 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BF15C3B9208C013400F19030 /* MelonciaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MelonciaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF15C3B9208C013400F19030 /* MelanciaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MelanciaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF15C3BD208C013400F19030 /* MelonciaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MelonciaUITests.swift; sourceTree = "<group>"; };
 		BF15C3BF208C013400F19030 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -77,9 +77,9 @@
 		BF15C391208C013100F19030 = {
 			isa = PBXGroup;
 			children = (
-				BF15C39C208C013100F19030 /* Meloncia */,
-				BF15C3B1208C013400F19030 /* MelonciaTests */,
-				BF15C3BC208C013400F19030 /* MelonciaUITests */,
+				BF15C39C208C013100F19030 /* Melancia */,
+				BF15C3B1208C013400F19030 /* MelanciaTests */,
+				BF15C3BC208C013400F19030 /* MelanciaUITests */,
 				BF15C39B208C013100F19030 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -87,14 +87,14 @@
 		BF15C39B208C013100F19030 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BF15C39A208C013100F19030 /* Meloncia.app */,
-				BF15C3AE208C013400F19030 /* MelonciaTests.xctest */,
-				BF15C3B9208C013400F19030 /* MelonciaUITests.xctest */,
+				BF15C39A208C013100F19030 /* Melancia.app */,
+				BF15C3AE208C013400F19030 /* MelanciaTests.xctest */,
+				BF15C3B9208C013400F19030 /* MelanciaUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BF15C39C208C013100F19030 /* Meloncia */ = {
+		BF15C39C208C013100F19030 /* Melancia */ = {
 			isa = PBXGroup;
 			children = (
 				BF15C39D208C013100F19030 /* AppDelegate.swift */,
@@ -104,33 +104,33 @@
 				BF15C3A6208C013400F19030 /* LaunchScreen.storyboard */,
 				BF15C3A9208C013400F19030 /* Info.plist */,
 			);
-			path = Meloncia;
+			path = Melancia;
 			sourceTree = "<group>";
 		};
-		BF15C3B1208C013400F19030 /* MelonciaTests */ = {
+		BF15C3B1208C013400F19030 /* MelanciaTests */ = {
 			isa = PBXGroup;
 			children = (
 				BF15C3B2208C013400F19030 /* MelonciaTests.swift */,
 				BF15C3B4208C013400F19030 /* Info.plist */,
 			);
-			path = MelonciaTests;
+			path = MelanciaTests;
 			sourceTree = "<group>";
 		};
-		BF15C3BC208C013400F19030 /* MelonciaUITests */ = {
+		BF15C3BC208C013400F19030 /* MelanciaUITests */ = {
 			isa = PBXGroup;
 			children = (
 				BF15C3BD208C013400F19030 /* MelonciaUITests.swift */,
 				BF15C3BF208C013400F19030 /* Info.plist */,
 			);
-			path = MelonciaUITests;
+			path = MelanciaUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BF15C399208C013100F19030 /* Meloncia */ = {
+		BF15C399208C013100F19030 /* Melancia */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BF15C3C2208C013400F19030 /* Build configuration list for PBXNativeTarget "Meloncia" */;
+			buildConfigurationList = BF15C3C2208C013400F19030 /* Build configuration list for PBXNativeTarget "Melancia" */;
 			buildPhases = (
 				BF15C396208C013100F19030 /* Sources */,
 				BF15C397208C013100F19030 /* Frameworks */,
@@ -140,14 +140,14 @@
 			);
 			dependencies = (
 			);
-			name = Meloncia;
+			name = Melancia;
 			productName = Meloncia;
-			productReference = BF15C39A208C013100F19030 /* Meloncia.app */;
+			productReference = BF15C39A208C013100F19030 /* Melancia.app */;
 			productType = "com.apple.product-type.application";
 		};
-		BF15C3AD208C013400F19030 /* MelonciaTests */ = {
+		BF15C3AD208C013400F19030 /* MelanciaTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BF15C3C5208C013400F19030 /* Build configuration list for PBXNativeTarget "MelonciaTests" */;
+			buildConfigurationList = BF15C3C5208C013400F19030 /* Build configuration list for PBXNativeTarget "MelanciaTests" */;
 			buildPhases = (
 				BF15C3AA208C013400F19030 /* Sources */,
 				BF15C3AB208C013400F19030 /* Frameworks */,
@@ -158,14 +158,14 @@
 			dependencies = (
 				BF15C3B0208C013400F19030 /* PBXTargetDependency */,
 			);
-			name = MelonciaTests;
+			name = MelanciaTests;
 			productName = MelonciaTests;
-			productReference = BF15C3AE208C013400F19030 /* MelonciaTests.xctest */;
+			productReference = BF15C3AE208C013400F19030 /* MelanciaTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		BF15C3B8208C013400F19030 /* MelonciaUITests */ = {
+		BF15C3B8208C013400F19030 /* MelanciaUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BF15C3C8208C013400F19030 /* Build configuration list for PBXNativeTarget "MelonciaUITests" */;
+			buildConfigurationList = BF15C3C8208C013400F19030 /* Build configuration list for PBXNativeTarget "MelanciaUITests" */;
 			buildPhases = (
 				BF15C3B5208C013400F19030 /* Sources */,
 				BF15C3B6208C013400F19030 /* Frameworks */,
@@ -176,9 +176,9 @@
 			dependencies = (
 				BF15C3BB208C013400F19030 /* PBXTargetDependency */,
 			);
-			name = MelonciaUITests;
+			name = MelanciaUITests;
 			productName = MelonciaUITests;
-			productReference = BF15C3B9208C013400F19030 /* MelonciaUITests.xctest */;
+			productReference = BF15C3B9208C013400F19030 /* MelanciaUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -204,7 +204,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BF15C395208C013100F19030 /* Build configuration list for PBXProject "Meloncia" */;
+			buildConfigurationList = BF15C395208C013100F19030 /* Build configuration list for PBXProject "Melancia" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -217,9 +217,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BF15C399208C013100F19030 /* Meloncia */,
-				BF15C3AD208C013400F19030 /* MelonciaTests */,
-				BF15C3B8208C013400F19030 /* MelonciaUITests */,
+				BF15C399208C013100F19030 /* Melancia */,
+				BF15C3AD208C013400F19030 /* MelanciaTests */,
+				BF15C3B8208C013400F19030 /* MelanciaUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -282,12 +282,12 @@
 /* Begin PBXTargetDependency section */
 		BF15C3B0208C013400F19030 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BF15C399208C013100F19030 /* Meloncia */;
+			target = BF15C399208C013100F19030 /* Melancia */;
 			targetProxy = BF15C3AF208C013400F19030 /* PBXContainerItemProxy */;
 		};
 		BF15C3BB208C013400F19030 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BF15C399208C013100F19030 /* Meloncia */;
+			target = BF15C399208C013100F19030 /* Melancia */;
 			targetProxy = BF15C3BA208C013400F19030 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -432,12 +432,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8N92JL6TW9;
-				INFOPLIST_FILE = Meloncia/Info.plist;
+				INFOPLIST_FILE = Melancia/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.Meloncia;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Melancia;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -450,12 +450,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8N92JL6TW9;
-				INFOPLIST_FILE = Meloncia/Info.plist;
+				INFOPLIST_FILE = Melancia/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.Meloncia;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Melancia;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -478,7 +478,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Meloncia.app/Meloncia";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Melancia.app/Melancia";
 			};
 			name = Debug;
 		};
@@ -498,7 +498,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Meloncia.app/Meloncia";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Melancia.app/Melancia";
 			};
 			name = Release;
 		};
@@ -543,7 +543,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BF15C395208C013100F19030 /* Build configuration list for PBXProject "Meloncia" */ = {
+		BF15C395208C013100F19030 /* Build configuration list for PBXProject "Melancia" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BF15C3C0208C013400F19030 /* Debug */,
@@ -552,7 +552,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BF15C3C2208C013400F19030 /* Build configuration list for PBXNativeTarget "Meloncia" */ = {
+		BF15C3C2208C013400F19030 /* Build configuration list for PBXNativeTarget "Melancia" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BF15C3C3208C013400F19030 /* Debug */,
@@ -561,7 +561,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BF15C3C5208C013400F19030 /* Build configuration list for PBXNativeTarget "MelonciaTests" */ = {
+		BF15C3C5208C013400F19030 /* Build configuration list for PBXNativeTarget "MelanciaTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BF15C3C6208C013400F19030 /* Debug */,
@@ -570,7 +570,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BF15C3C8208C013400F19030 /* Build configuration list for PBXNativeTarget "MelonciaUITests" */ = {
+		BF15C3C8208C013400F19030 /* Build configuration list for PBXNativeTarget "MelanciaUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BF15C3C9208C013400F19030 /* Debug */,

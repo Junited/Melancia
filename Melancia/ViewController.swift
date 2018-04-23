@@ -24,7 +24,7 @@ class ViewController: UIViewController, UITableViewDataSource {
         self.navigationItem.rightBarButtonItem = addButton
         self.navigationItem.leftBarButtonItem = editButtonItem
         let baseURL = try! FileManager.default.url(for: .documentDirectory, in: .userDomainMask, appropriateFor: nil, create: false)
-        fileURL = baseURL.appendingPathComponent("meloncia.txt")
+        fileURL = baseURL.appendingPathComponent("melancia.txt")
         load()
     }
     
