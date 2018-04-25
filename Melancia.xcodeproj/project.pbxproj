@@ -14,6 +14,7 @@
 		BF15C3A8208C013400F19030 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF15C3A6208C013400F19030 /* LaunchScreen.storyboard */; };
 		BF15C3B3208C013400F19030 /* MelonciaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF15C3B2208C013400F19030 /* MelonciaTests.swift */; };
 		BF15C3BE208C013400F19030 /* MelonciaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF15C3BD208C013400F19030 /* MelonciaUITests.swift */; };
+		BFF9473C209047910001D6A1 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF9473B209047910001D6A1 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		BF15C3B9208C013400F19030 /* MelanciaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MelanciaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF15C3BD208C013400F19030 /* MelonciaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MelonciaUITests.swift; sourceTree = "<group>"; };
 		BF15C3BF208C013400F19030 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFF9473B209047910001D6A1 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				BF15C39D208C013100F19030 /* AppDelegate.swift */,
 				BF15C39F208C013100F19030 /* ViewController.swift */,
+				BFF9473B209047910001D6A1 /* DetailViewController.swift */,
 				BF15C3A1208C013100F19030 /* Main.storyboard */,
 				BF15C3A4208C013400F19030 /* Assets.xcassets */,
 				BF15C3A6208C013400F19030 /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFF9473C209047910001D6A1 /* DetailViewController.swift in Sources */,
 				BF15C3A0208C013100F19030 /* ViewController.swift in Sources */,
 				BF15C39E208C013100F19030 /* AppDelegate.swift in Sources */,
 			);
